@@ -3,7 +3,7 @@ class Dot < Formula
   homepage "https://github.com/LEI/dot"
   url "https://github.com/LEI/dot/releases/download/v0.0.3/dot-darwin-amd64.tar.gz"
   version "0.0.3"
-  sha256 "754788fc0e4c4b8faaa4de082feed75c85e4ce62d1741c580657e9fabbb7546c"
+  sha256 "10327cc7a2189986e00d57d93e9cdb4f2e3a3ab553907f7c7c5b12dc1236f88c"
   
   depends_on "git"
 
