@@ -1,9 +1,9 @@
 class Dot < Formula
   desc ""
   homepage "https://github.com/LEI/dot"
-  url "https://github.com/LEI/dot/releases/download/v0.0.3/dot-darwin-amd64.tar.gz"
-  version "0.0.3"
-  sha256 "ea7943042a0f8a29aa0699ef9939e5d0449c67151637305e7544e888cad9b4cd"
+  url "https://github.com/LEI/dot/releases/download/v0.0.2/dot-darwin-amd64.tar.gz"
+  version "0.0.2"
+  sha256 "2b72f533adef1021bb7382759c5579d69d218f43f86c47c1126a21993c21b489"
   
   depends_on "git"
 
